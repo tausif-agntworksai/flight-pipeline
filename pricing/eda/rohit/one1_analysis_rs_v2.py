@@ -69,3 +69,15 @@ print(significant_clusters_df)
 significant_clusters = significant_clusters_df['Dep_cluster'].tolist()
 
 # %%
+# 1. Create the raw 'corridor' feature
+df['corridor'] = df['Dep_cluster'] + " -> " + df['Arr_cluster']
+
+# 2. (Optional) Create a 'clean_corridor' for better labeling in charts
+# This removes the word '_CLUSTER' so it looks like 'NEW_YORK -> SAN_FRANCISCO'
+df['corridor_clean'] = df['corridor'].str.replace('_CLUSTER', '', regex=True)
+
+# 3. Preview the new feature
+print("New 'corridor' feature added:")
+print(df[['Dep_cluster', 'Arr_cluster', 'corridor_clean']].head())
+
+# %%
