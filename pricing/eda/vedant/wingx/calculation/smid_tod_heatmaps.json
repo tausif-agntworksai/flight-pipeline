@@ -1,0 +1,726 @@
+{
+  "generated_at": "2026-04-29 09:00:56.539574",
+  "dataset_name": "smid_tod_heatmaps",
+  "records": [
+    {
+      "corridor": "New York City \u2794 South Florida",
+      "dimension": "07:00-09:59",
+      "tod_market_velocity_pct": 18.1276,
+      "tod_wup_share_pct": 0.7534
+    },
+    {
+      "corridor": "New York City \u2794 South Florida",
+      "dimension": "10:00-12:59",
+      "tod_market_velocity_pct": 28.4579,
+      "tod_wup_share_pct": 1.3089
+    },
+    {
+      "corridor": "New York City \u2794 South Florida",
+      "dimension": "13:00-15:59",
+      "tod_market_velocity_pct": 24.1122,
+      "tod_wup_share_pct": 1.3388
+    },
+    {
+      "corridor": "New York City \u2794 South Florida",
+      "dimension": "16:00-18:59",
+      "tod_market_velocity_pct": 18.376,
+      "tod_wup_share_pct": 1.6216
+    },
+    {
+      "corridor": "New York City \u2794 South Florida",
+      "dimension": "19:00-21:59",
+      "tod_market_velocity_pct": 7.549,
+      "tod_wup_share_pct": 0.4934
+    },
+    {
+      "corridor": "New York City \u2794 South Florida",
+      "dimension": "Off-Peak (Late/Early)",
+      "tod_market_velocity_pct": 3.3772,
+      "tod_wup_share_pct": 1.1029
+    },
+    {
+      "corridor": "South Florida \u2794 New York City",
+      "dimension": "07:00-09:59",
+      "tod_market_velocity_pct": 19.1512,
+      "tod_wup_share_pct": 0.1832
+    },
+    {
+      "corridor": "South Florida \u2794 New York City",
+      "dimension": "10:00-12:59",
+      "tod_market_velocity_pct": 27.9726,
+      "tod_wup_share_pct": 0.627
+    },
+    {
+      "corridor": "South Florida \u2794 New York City",
+      "dimension": "13:00-15:59",
+      "tod_market_velocity_pct": 25.2192,
+      "tod_wup_share_pct": 0.6259
+    },
+    {
+      "corridor": "South Florida \u2794 New York City",
+      "dimension": "16:00-18:59",
+      "tod_market_velocity_pct": 18.3444,
+      "tod_wup_share_pct": 0.7648
+    },
+    {
+      "corridor": "South Florida \u2794 New York City",
+      "dimension": "19:00-21:59",
+      "tod_market_velocity_pct": 6.2785,
+      "tod_wup_share_pct": 0.5587
+    },
+    {
+      "corridor": "South Florida \u2794 New York City",
+      "dimension": "Off-Peak (Late/Early)",
+      "tod_market_velocity_pct": 3.034,
+      "tod_wup_share_pct": 1.1561
+    },
+    {
+      "corridor": "Boston \u2794 South Florida",
+      "dimension": "07:00-09:59",
+      "tod_market_velocity_pct": 20.5717,
+      "tod_wup_share_pct": 3.9863
+    },
+    {
+      "corridor": "Boston \u2794 South Florida",
+      "dimension": "10:00-12:59",
+      "tod_market_velocity_pct": 32.2868,
+      "tod_wup_share_pct": 4.6444
+    },
+    {
+      "corridor": "Boston \u2794 South Florida",
+      "dimension": "13:00-15:59",
+      "tod_market_velocity_pct": 25.9606,
+      "tod_wup_share_pct": 2.3466
+    },
+    {
+      "corridor": "Boston \u2794 South Florida",
+      "dimension": "16:00-18:59",
+      "tod_market_velocity_pct": 15.1593,
+      "tod_wup_share_pct": 2.7821
+    },
+    {
+      "corridor": "Boston \u2794 South Florida",
+      "dimension": "19:00-21:59",
+      "tod_market_velocity_pct": 3.9128,
+      "tod_wup_share_pct": 3.5928
+    },
+    {
+      "corridor": "Boston \u2794 South Florida",
+      "dimension": "Off-Peak (Late/Early)",
+      "tod_market_velocity_pct": 2.1087,
+      "tod_wup_share_pct": 2.2222
+    },
+    {
+      "corridor": "South Florida \u2794 Chicago",
+      "dimension": "07:00-09:59",
+      "tod_market_velocity_pct": 17.4264,
+      "tod_wup_share_pct": 1.6349
+    },
+    {
+      "corridor": "South Florida \u2794 Chicago",
+      "dimension": "10:00-12:59",
+      "tod_market_velocity_pct": 30.1519,
+      "tod_wup_share_pct": 2.126
+    },
+    {
+      "corridor": "South Florida \u2794 Chicago",
+      "dimension": "13:00-15:59",
+      "tod_market_velocity_pct": 27.4454,
+      "tod_wup_share_pct": 2.3356
+    },
+    {
+      "corridor": "South Florida \u2794 Chicago",
+      "dimension": "16:00-18:59",
+      "tod_market_velocity_pct": 17.4027,
+      "tod_wup_share_pct": 1.3643
+    },
+    {
+      "corridor": "South Florida \u2794 Chicago",
+      "dimension": "19:00-21:59",
+      "tod_market_velocity_pct": 5.4606,
+      "tod_wup_share_pct": 0.0
+    },
+    {
+      "corridor": "South Florida \u2794 Chicago",
+      "dimension": "Off-Peak (Late/Early)",
+      "tod_market_velocity_pct": 2.113,
+      "tod_wup_share_pct": 0.0
+    },
+    {
+      "corridor": "New York City \u2794 Denver",
+      "dimension": "07:00-09:59",
+      "tod_market_velocity_pct": 21.7758,
+      "tod_wup_share_pct": 5.2392
+    },
+    {
+      "corridor": "New York City \u2794 Denver",
+      "dimension": "10:00-12:59",
+      "tod_market_velocity_pct": 38.12,
+      "tod_wup_share_pct": 6.6363
+    },
+    {
+      "corridor": "New York City \u2794 Denver",
+      "dimension": "13:00-15:59",
+      "tod_market_velocity_pct": 21.5526,
+      "tod_wup_share_pct": 4.8331
+    },
+    {
+      "corridor": "New York City \u2794 Denver",
+      "dimension": "16:00-18:59",
+      "tod_market_velocity_pct": 11.8304,
+      "tod_wup_share_pct": 3.5639
+    },
+    {
+      "corridor": "New York City \u2794 Denver",
+      "dimension": "19:00-21:59",
+      "tod_market_velocity_pct": 4.1419,
+      "tod_wup_share_pct": 7.7844
+    },
+    {
+      "corridor": "New York City \u2794 Denver",
+      "dimension": "Off-Peak (Late/Early)",
+      "tod_market_velocity_pct": 2.5794,
+      "tod_wup_share_pct": 4.8077
+    },
+    {
+      "corridor": "Denver \u2794 New York City",
+      "dimension": "07:00-09:59",
+      "tod_market_velocity_pct": 5.2133,
+      "tod_wup_share_pct": 5.2632
+    },
+    {
+      "corridor": "Denver \u2794 New York City",
+      "dimension": "10:00-12:59",
+      "tod_market_velocity_pct": 38.688,
+      "tod_wup_share_pct": 6.7054
+    },
+    {
+      "corridor": "Denver \u2794 New York City",
+      "dimension": "13:00-15:59",
+      "tod_market_velocity_pct": 29.8578,
+      "tod_wup_share_pct": 5.5973
+    },
+    {
+      "corridor": "Denver \u2794 New York City",
+      "dimension": "16:00-18:59",
+      "tod_market_velocity_pct": 18.4335,
+      "tod_wup_share_pct": 4.7361
+    },
+    {
+      "corridor": "Denver \u2794 New York City",
+      "dimension": "19:00-21:59",
+      "tod_market_velocity_pct": 6.5353,
+      "tod_wup_share_pct": 5.7252
+    },
+    {
+      "corridor": "Denver \u2794 New York City",
+      "dimension": "Off-Peak (Late/Early)",
+      "tod_market_velocity_pct": 1.2721,
+      "tod_wup_share_pct": 5.8824
+    },
+    {
+      "corridor": "South Florida \u2794 Boston",
+      "dimension": "07:00-09:59",
+      "tod_market_velocity_pct": 23.293,
+      "tod_wup_share_pct": 3.7825
+    },
+    {
+      "corridor": "South Florida \u2794 Boston",
+      "dimension": "10:00-12:59",
+      "tod_market_velocity_pct": 33.7555,
+      "tod_wup_share_pct": 3.0179
+    },
+    {
+      "corridor": "South Florida \u2794 Boston",
+      "dimension": "13:00-15:59",
+      "tod_market_velocity_pct": 24.5044,
+      "tod_wup_share_pct": 2.3596
+    },
+    {
+      "corridor": "South Florida \u2794 Boston",
+      "dimension": "16:00-18:59",
+      "tod_market_velocity_pct": 13.6289,
+      "tod_wup_share_pct": 2.4242
+    },
+    {
+      "corridor": "South Florida \u2794 Boston",
+      "dimension": "19:00-21:59",
+      "tod_market_velocity_pct": 2.7533,
+      "tod_wup_share_pct": 3.0
+    },
+    {
+      "corridor": "South Florida \u2794 Boston",
+      "dimension": "Off-Peak (Late/Early)",
+      "tod_market_velocity_pct": 2.065,
+      "tod_wup_share_pct": 1.3333
+    },
+    {
+      "corridor": "Denver \u2794 South Florida",
+      "dimension": "07:00-09:59",
+      "tod_market_velocity_pct": 3.5179,
+      "tod_wup_share_pct": 7.8261
+    },
+    {
+      "corridor": "Denver \u2794 South Florida",
+      "dimension": "10:00-12:59",
+      "tod_market_velocity_pct": 41.3888,
+      "tod_wup_share_pct": 8.3518
+    },
+    {
+      "corridor": "Denver \u2794 South Florida",
+      "dimension": "13:00-15:59",
+      "tod_market_velocity_pct": 33.7106,
+      "tod_wup_share_pct": 6.7151
+    },
+    {
+      "corridor": "Denver \u2794 South Florida",
+      "dimension": "16:00-18:59",
+      "tod_market_velocity_pct": 16.7329,
+      "tod_wup_share_pct": 6.5814
+    },
+    {
+      "corridor": "Denver \u2794 South Florida",
+      "dimension": "19:00-21:59",
+      "tod_market_velocity_pct": 3.8544,
+      "tod_wup_share_pct": 6.3492
+    },
+    {
+      "corridor": "Denver \u2794 South Florida",
+      "dimension": "Off-Peak (Late/Early)",
+      "tod_market_velocity_pct": 0.7954,
+      "tod_wup_share_pct": 0.0
+    },
+    {
+      "corridor": "South Florida \u2794 Denver",
+      "dimension": "07:00-09:59",
+      "tod_market_velocity_pct": 24.9035,
+      "tod_wup_share_pct": 6.8475
+    },
+    {
+      "corridor": "South Florida \u2794 Denver",
+      "dimension": "10:00-12:59",
+      "tod_market_velocity_pct": 42.5354,
+      "tod_wup_share_pct": 9.2284
+    },
+    {
+      "corridor": "South Florida \u2794 Denver",
+      "dimension": "13:00-15:59",
+      "tod_market_velocity_pct": 20.6242,
+      "tod_wup_share_pct": 7.4883
+    },
+    {
+      "corridor": "South Florida \u2794 Denver",
+      "dimension": "16:00-18:59",
+      "tod_market_velocity_pct": 8.2046,
+      "tod_wup_share_pct": 3.9216
+    },
+    {
+      "corridor": "South Florida \u2794 Denver",
+      "dimension": "19:00-21:59",
+      "tod_market_velocity_pct": 1.7375,
+      "tod_wup_share_pct": 7.4074
+    },
+    {
+      "corridor": "South Florida \u2794 Denver",
+      "dimension": "Off-Peak (Late/Early)",
+      "tod_market_velocity_pct": 1.9949,
+      "tod_wup_share_pct": 1.6129
+    },
+    {
+      "corridor": "Chicago \u2794 South Florida",
+      "dimension": "07:00-09:59",
+      "tod_market_velocity_pct": 17.8435,
+      "tod_wup_share_pct": 1.1696
+    },
+    {
+      "corridor": "Chicago \u2794 South Florida",
+      "dimension": "10:00-12:59",
+      "tod_market_velocity_pct": 33.6348,
+      "tod_wup_share_pct": 1.8614
+    },
+    {
+      "corridor": "Chicago \u2794 South Florida",
+      "dimension": "13:00-15:59",
+      "tod_market_velocity_pct": 24.313,
+      "tod_wup_share_pct": 1.4306
+    },
+    {
+      "corridor": "Chicago \u2794 South Florida",
+      "dimension": "16:00-18:59",
+      "tod_market_velocity_pct": 16.3478,
+      "tod_wup_share_pct": 1.9149
+    },
+    {
+      "corridor": "Chicago \u2794 South Florida",
+      "dimension": "19:00-21:59",
+      "tod_market_velocity_pct": 5.6696,
+      "tod_wup_share_pct": 1.227
+    },
+    {
+      "corridor": "Chicago \u2794 South Florida",
+      "dimension": "Off-Peak (Late/Early)",
+      "tod_market_velocity_pct": 2.1913,
+      "tod_wup_share_pct": 0.0
+    },
+    {
+      "corridor": "New York City \u2794 Dallas",
+      "dimension": "07:00-09:59",
+      "tod_market_velocity_pct": 12.4509,
+      "tod_wup_share_pct": 4.2105
+    },
+    {
+      "corridor": "New York City \u2794 Dallas",
+      "dimension": "10:00-12:59",
+      "tod_market_velocity_pct": 22.9795,
+      "tod_wup_share_pct": 2.0913
+    },
+    {
+      "corridor": "New York City \u2794 Dallas",
+      "dimension": "13:00-15:59",
+      "tod_market_velocity_pct": 26.7803,
+      "tod_wup_share_pct": 1.9576
+    },
+    {
+      "corridor": "New York City \u2794 Dallas",
+      "dimension": "16:00-18:59",
+      "tod_market_velocity_pct": 22.7173,
+      "tod_wup_share_pct": 2.5
+    },
+    {
+      "corridor": "New York City \u2794 Dallas",
+      "dimension": "19:00-21:59",
+      "tod_market_velocity_pct": 10.4412,
+      "tod_wup_share_pct": 2.0921
+    },
+    {
+      "corridor": "New York City \u2794 Dallas",
+      "dimension": "Off-Peak (Late/Early)",
+      "tod_market_velocity_pct": 4.6308,
+      "tod_wup_share_pct": 0.0
+    },
+    {
+      "corridor": "South Florida \u2794 Dallas",
+      "dimension": "07:00-09:59",
+      "tod_market_velocity_pct": 17.5487,
+      "tod_wup_share_pct": 1.8519
+    },
+    {
+      "corridor": "South Florida \u2794 Dallas",
+      "dimension": "10:00-12:59",
+      "tod_market_velocity_pct": 26.4624,
+      "tod_wup_share_pct": 1.4035
+    },
+    {
+      "corridor": "South Florida \u2794 Dallas",
+      "dimension": "13:00-15:59",
+      "tod_market_velocity_pct": 28.3194,
+      "tod_wup_share_pct": 1.1475
+    },
+    {
+      "corridor": "South Florida \u2794 Dallas",
+      "dimension": "16:00-18:59",
+      "tod_market_velocity_pct": 17.7809,
+      "tod_wup_share_pct": 1.5666
+    },
+    {
+      "corridor": "South Florida \u2794 Dallas",
+      "dimension": "19:00-21:59",
+      "tod_market_velocity_pct": 7.2423,
+      "tod_wup_share_pct": 0.641
+    },
+    {
+      "corridor": "South Florida \u2794 Dallas",
+      "dimension": "Off-Peak (Late/Early)",
+      "tod_market_velocity_pct": 2.6462,
+      "tod_wup_share_pct": 3.5088
+    },
+    {
+      "corridor": "Dallas \u2794 New York City",
+      "dimension": "07:00-09:59",
+      "tod_market_velocity_pct": 17.8952,
+      "tod_wup_share_pct": 2.168
+    },
+    {
+      "corridor": "Dallas \u2794 New York City",
+      "dimension": "10:00-12:59",
+      "tod_market_velocity_pct": 28.2735,
+      "tod_wup_share_pct": 1.5437
+    },
+    {
+      "corridor": "Dallas \u2794 New York City",
+      "dimension": "13:00-15:59",
+      "tod_market_velocity_pct": 25.5092,
+      "tod_wup_share_pct": 1.9011
+    },
+    {
+      "corridor": "Dallas \u2794 New York City",
+      "dimension": "16:00-18:59",
+      "tod_market_velocity_pct": 17.4588,
+      "tod_wup_share_pct": 0.8333
+    },
+    {
+      "corridor": "Dallas \u2794 New York City",
+      "dimension": "19:00-21:59",
+      "tod_market_velocity_pct": 7.323,
+      "tod_wup_share_pct": 1.9868
+    },
+    {
+      "corridor": "Dallas \u2794 New York City",
+      "dimension": "Off-Peak (Late/Early)",
+      "tod_market_velocity_pct": 3.5403,
+      "tod_wup_share_pct": 5.4795
+    },
+    {
+      "corridor": "Chicago \u2794 Denver",
+      "dimension": "07:00-09:59",
+      "tod_market_velocity_pct": 20.8786,
+      "tod_wup_share_pct": 1.4851
+    },
+    {
+      "corridor": "Chicago \u2794 Denver",
+      "dimension": "10:00-12:59",
+      "tod_market_velocity_pct": 32.1964,
+      "tod_wup_share_pct": 1.4446
+    },
+    {
+      "corridor": "Chicago \u2794 Denver",
+      "dimension": "13:00-15:59",
+      "tod_market_velocity_pct": 23.5659,
+      "tod_wup_share_pct": 1.7544
+    },
+    {
+      "corridor": "Chicago \u2794 Denver",
+      "dimension": "16:00-18:59",
+      "tod_market_velocity_pct": 16.4858,
+      "tod_wup_share_pct": 3.7618
+    },
+    {
+      "corridor": "Chicago \u2794 Denver",
+      "dimension": "19:00-21:59",
+      "tod_market_velocity_pct": 4.4444,
+      "tod_wup_share_pct": 2.3256
+    },
+    {
+      "corridor": "Chicago \u2794 Denver",
+      "dimension": "Off-Peak (Late/Early)",
+      "tod_market_velocity_pct": 2.4289,
+      "tod_wup_share_pct": 2.1277
+    },
+    {
+      "corridor": "South Florida \u2794 Minneapolis",
+      "dimension": "07:00-09:59",
+      "tod_market_velocity_pct": 18.1761,
+      "tod_wup_share_pct": 2.4055
+    },
+    {
+      "corridor": "South Florida \u2794 Minneapolis",
+      "dimension": "10:00-12:59",
+      "tod_market_velocity_pct": 33.5415,
+      "tod_wup_share_pct": 3.9106
+    },
+    {
+      "corridor": "South Florida \u2794 Minneapolis",
+      "dimension": "13:00-15:59",
+      "tod_market_velocity_pct": 27.4828,
+      "tod_wup_share_pct": 1.3636
+    },
+    {
+      "corridor": "South Florida \u2794 Minneapolis",
+      "dimension": "16:00-18:59",
+      "tod_market_velocity_pct": 14.1786,
+      "tod_wup_share_pct": 0.8811
+    },
+    {
+      "corridor": "South Florida \u2794 Minneapolis",
+      "dimension": "19:00-21:59",
+      "tod_market_velocity_pct": 4.8095,
+      "tod_wup_share_pct": 1.2987
+    },
+    {
+      "corridor": "South Florida \u2794 Minneapolis",
+      "dimension": "Off-Peak (Late/Early)",
+      "tod_market_velocity_pct": 1.8114,
+      "tod_wup_share_pct": 0.0
+    },
+    {
+      "corridor": "Minneapolis \u2794 South Florida",
+      "dimension": "07:00-09:59",
+      "tod_market_velocity_pct": 20.9473,
+      "tod_wup_share_pct": 2.5478
+    },
+    {
+      "corridor": "Minneapolis \u2794 South Florida",
+      "dimension": "10:00-12:59",
+      "tod_market_velocity_pct": 36.3576,
+      "tod_wup_share_pct": 1.6514
+    },
+    {
+      "corridor": "Minneapolis \u2794 South Florida",
+      "dimension": "13:00-15:59",
+      "tod_market_velocity_pct": 23.2155,
+      "tod_wup_share_pct": 1.1494
+    },
+    {
+      "corridor": "Minneapolis \u2794 South Florida",
+      "dimension": "16:00-18:59",
+      "tod_market_velocity_pct": 14.8766,
+      "tod_wup_share_pct": 1.7937
+    },
+    {
+      "corridor": "Minneapolis \u2794 South Florida",
+      "dimension": "19:00-21:59",
+      "tod_market_velocity_pct": 3.2688,
+      "tod_wup_share_pct": 4.0816
+    },
+    {
+      "corridor": "Minneapolis \u2794 South Florida",
+      "dimension": "Off-Peak (Late/Early)",
+      "tod_market_velocity_pct": 1.3342,
+      "tod_wup_share_pct": 0.0
+    },
+    {
+      "corridor": "Boston \u2794 Denver",
+      "dimension": "07:00-09:59",
+      "tod_market_velocity_pct": 23.8161,
+      "tod_wup_share_pct": 7.781
+    },
+    {
+      "corridor": "Boston \u2794 Denver",
+      "dimension": "10:00-12:59",
+      "tod_market_velocity_pct": 39.7392,
+      "tod_wup_share_pct": 7.772
+    },
+    {
+      "corridor": "Boston \u2794 Denver",
+      "dimension": "13:00-15:59",
+      "tod_market_velocity_pct": 21.8257,
+      "tod_wup_share_pct": 5.0314
+    },
+    {
+      "corridor": "Boston \u2794 Denver",
+      "dimension": "16:00-18:59",
+      "tod_market_velocity_pct": 11.1187,
+      "tod_wup_share_pct": 7.4074
+    },
+    {
+      "corridor": "Boston \u2794 Denver",
+      "dimension": "19:00-21:59",
+      "tod_market_velocity_pct": 1.9218,
+      "tod_wup_share_pct": 14.2857
+    },
+    {
+      "corridor": "Boston \u2794 Denver",
+      "dimension": "Off-Peak (Late/Early)",
+      "tod_market_velocity_pct": 1.5786,
+      "tod_wup_share_pct": 8.6957
+    },
+    {
+      "corridor": "Atlanta \u2794 Denver",
+      "dimension": "07:00-09:59",
+      "tod_market_velocity_pct": 21.8881,
+      "tod_wup_share_pct": 3.8339
+    },
+    {
+      "corridor": "Atlanta \u2794 Denver",
+      "dimension": "10:00-12:59",
+      "tod_market_velocity_pct": 34.1958,
+      "tod_wup_share_pct": 6.544
+    },
+    {
+      "corridor": "Atlanta \u2794 Denver",
+      "dimension": "13:00-15:59",
+      "tod_market_velocity_pct": 28.042,
+      "tod_wup_share_pct": 7.98
+    },
+    {
+      "corridor": "Atlanta \u2794 Denver",
+      "dimension": "16:00-18:59",
+      "tod_market_velocity_pct": 10.7692,
+      "tod_wup_share_pct": 6.4935
+    },
+    {
+      "corridor": "Atlanta \u2794 Denver",
+      "dimension": "19:00-21:59",
+      "tod_market_velocity_pct": 2.6573,
+      "tod_wup_share_pct": 2.6316
+    },
+    {
+      "corridor": "Atlanta \u2794 Denver",
+      "dimension": "Off-Peak (Late/Early)",
+      "tod_market_velocity_pct": 2.4476,
+      "tod_wup_share_pct": 2.8571
+    },
+    {
+      "corridor": "Denver \u2794 Boston",
+      "dimension": "07:00-09:59",
+      "tod_market_velocity_pct": 4.972,
+      "tod_wup_share_pct": 4.2254
+    },
+    {
+      "corridor": "Denver \u2794 Boston",
+      "dimension": "10:00-12:59",
+      "tod_market_velocity_pct": 46.0784,
+      "tod_wup_share_pct": 7.7508
+    },
+    {
+      "corridor": "Denver \u2794 Boston",
+      "dimension": "13:00-15:59",
+      "tod_market_velocity_pct": 28.8515,
+      "tod_wup_share_pct": 8.0097
+    },
+    {
+      "corridor": "Denver \u2794 Boston",
+      "dimension": "16:00-18:59",
+      "tod_market_velocity_pct": 14.6359,
+      "tod_wup_share_pct": 8.6124
+    },
+    {
+      "corridor": "Denver \u2794 Boston",
+      "dimension": "19:00-21:59",
+      "tod_market_velocity_pct": 4.2717,
+      "tod_wup_share_pct": 16.3934
+    },
+    {
+      "corridor": "Denver \u2794 Boston",
+      "dimension": "Off-Peak (Late/Early)",
+      "tod_market_velocity_pct": 1.1905,
+      "tod_wup_share_pct": 0.0
+    },
+    {
+      "corridor": "DMV \u2794 Denver",
+      "dimension": "07:00-09:59",
+      "tod_market_velocity_pct": 23.2444,
+      "tod_wup_share_pct": 4.8338
+    },
+    {
+      "corridor": "DMV \u2794 Denver",
+      "dimension": "10:00-12:59",
+      "tod_market_velocity_pct": 32.9354,
+      "tod_wup_share_pct": 5.9701
+    },
+    {
+      "corridor": "DMV \u2794 Denver",
+      "dimension": "13:00-15:59",
+      "tod_market_velocity_pct": 24.5787,
+      "tod_wup_share_pct": 6.2857
+    },
+    {
+      "corridor": "DMV \u2794 Denver",
+      "dimension": "16:00-18:59",
+      "tod_market_velocity_pct": 12.2191,
+      "tod_wup_share_pct": 3.4483
+    },
+    {
+      "corridor": "DMV \u2794 Denver",
+      "dimension": "19:00-21:59",
+      "tod_market_velocity_pct": 3.1601,
+      "tod_wup_share_pct": 4.4444
+    },
+    {
+      "corridor": "DMV \u2794 Denver",
+      "dimension": "Off-Peak (Late/Early)",
+      "tod_market_velocity_pct": 3.8624,
+      "tod_wup_share_pct": 5.4545
+    }
+  ]
+}

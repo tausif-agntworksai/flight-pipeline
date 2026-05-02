@@ -1,0 +1,846 @@
+{
+  "generated_at": "2026-04-29 09:00:52.231073",
+  "dataset_name": "dow_heatmaps",
+  "records": [
+    {
+      "corridor": "South Florida \u2794 New York City",
+      "dimension": "Monday",
+      "dow_market_velocity_pct": 17.0013,
+      "dow_wup_share_pct": 4.6338
+    },
+    {
+      "corridor": "South Florida \u2794 New York City",
+      "dimension": "Tuesday",
+      "dow_market_velocity_pct": 14.3329,
+      "dow_wup_share_pct": 4.4326
+    },
+    {
+      "corridor": "South Florida \u2794 New York City",
+      "dimension": "Wednesday",
+      "dow_market_velocity_pct": 13.1385,
+      "dow_wup_share_pct": 4.2553
+    },
+    {
+      "corridor": "South Florida \u2794 New York City",
+      "dimension": "Thursday",
+      "dow_market_velocity_pct": 12.554,
+      "dow_wup_share_pct": 4.6559
+    },
+    {
+      "corridor": "South Florida \u2794 New York City",
+      "dimension": "Friday",
+      "dow_market_velocity_pct": 13.2147,
+      "dow_wup_share_pct": 2.6923
+    },
+    {
+      "corridor": "South Florida \u2794 New York City",
+      "dimension": "Saturday",
+      "dow_market_velocity_pct": 11.6137,
+      "dow_wup_share_pct": 3.5011
+    },
+    {
+      "corridor": "South Florida \u2794 New York City",
+      "dimension": "Sunday",
+      "dow_market_velocity_pct": 18.1449,
+      "dow_wup_share_pct": 2.6611
+    },
+    {
+      "corridor": "New York City \u2794 South Florida",
+      "dimension": "Monday",
+      "dow_market_velocity_pct": 13.3719,
+      "dow_wup_share_pct": 3.1496
+    },
+    {
+      "corridor": "New York City \u2794 South Florida",
+      "dimension": "Tuesday",
+      "dow_market_velocity_pct": 12.6349,
+      "dow_wup_share_pct": 3.5417
+    },
+    {
+      "corridor": "New York City \u2794 South Florida",
+      "dimension": "Wednesday",
+      "dow_market_velocity_pct": 14.925,
+      "dow_wup_share_pct": 2.4691
+    },
+    {
+      "corridor": "New York City \u2794 South Florida",
+      "dimension": "Thursday",
+      "dow_market_velocity_pct": 16.3727,
+      "dow_wup_share_pct": 3.3762
+    },
+    {
+      "corridor": "New York City \u2794 South Florida",
+      "dimension": "Friday",
+      "dow_market_velocity_pct": 15.5041,
+      "dow_wup_share_pct": 2.5467
+    },
+    {
+      "corridor": "New York City \u2794 South Florida",
+      "dimension": "Saturday",
+      "dow_market_velocity_pct": 12.2664,
+      "dow_wup_share_pct": 3.0043
+    },
+    {
+      "corridor": "New York City \u2794 South Florida",
+      "dimension": "Sunday",
+      "dow_market_velocity_pct": 14.925,
+      "dow_wup_share_pct": 2.2928
+    },
+    {
+      "corridor": "Chicago \u2794 South Florida",
+      "dimension": "Monday",
+      "dow_market_velocity_pct": 12.6586,
+      "dow_wup_share_pct": 2.5057
+    },
+    {
+      "corridor": "Chicago \u2794 South Florida",
+      "dimension": "Tuesday",
+      "dow_market_velocity_pct": 12.0242,
+      "dow_wup_share_pct": 5.036
+    },
+    {
+      "corridor": "Chicago \u2794 South Florida",
+      "dimension": "Wednesday",
+      "dow_market_velocity_pct": 14.9942,
+      "dow_wup_share_pct": 2.8846
+    },
+    {
+      "corridor": "Chicago \u2794 South Florida",
+      "dimension": "Thursday",
+      "dow_market_velocity_pct": 16.955,
+      "dow_wup_share_pct": 2.2109
+    },
+    {
+      "corridor": "Chicago \u2794 South Florida",
+      "dimension": "Friday",
+      "dow_market_velocity_pct": 16.3783,
+      "dow_wup_share_pct": 3.3451
+    },
+    {
+      "corridor": "Chicago \u2794 South Florida",
+      "dimension": "Saturday",
+      "dow_market_velocity_pct": 13.9273,
+      "dow_wup_share_pct": 3.5197
+    },
+    {
+      "corridor": "Chicago \u2794 South Florida",
+      "dimension": "Sunday",
+      "dow_market_velocity_pct": 13.0623,
+      "dow_wup_share_pct": 1.9868
+    },
+    {
+      "corridor": "South Florida \u2794 Chicago",
+      "dimension": "Monday",
+      "dow_market_velocity_pct": 15.0175,
+      "dow_wup_share_pct": 2.5194
+    },
+    {
+      "corridor": "South Florida \u2794 Chicago",
+      "dimension": "Tuesday",
+      "dow_market_velocity_pct": 12.2817,
+      "dow_wup_share_pct": 4.2654
+    },
+    {
+      "corridor": "South Florida \u2794 Chicago",
+      "dimension": "Wednesday",
+      "dow_market_velocity_pct": 13.3586,
+      "dow_wup_share_pct": 2.8322
+    },
+    {
+      "corridor": "South Florida \u2794 Chicago",
+      "dimension": "Thursday",
+      "dow_market_velocity_pct": 13.9406,
+      "dow_wup_share_pct": 2.714
+    },
+    {
+      "corridor": "South Florida \u2794 Chicago",
+      "dimension": "Friday",
+      "dow_market_velocity_pct": 14.057,
+      "dow_wup_share_pct": 3.1056
+    },
+    {
+      "corridor": "South Florida \u2794 Chicago",
+      "dimension": "Saturday",
+      "dow_market_velocity_pct": 13.3586,
+      "dow_wup_share_pct": 4.3573
+    },
+    {
+      "corridor": "South Florida \u2794 Chicago",
+      "dimension": "Sunday",
+      "dow_market_velocity_pct": 17.986,
+      "dow_wup_share_pct": 3.0744
+    },
+    {
+      "corridor": "Chicago \u2794 Denver",
+      "dimension": "Monday",
+      "dow_market_velocity_pct": 14.5533,
+      "dow_wup_share_pct": 3.2172
+    },
+    {
+      "corridor": "Chicago \u2794 Denver",
+      "dimension": "Tuesday",
+      "dow_market_velocity_pct": 12.0952,
+      "dow_wup_share_pct": 3.871
+    },
+    {
+      "corridor": "Chicago \u2794 Denver",
+      "dimension": "Wednesday",
+      "dow_market_velocity_pct": 14.046,
+      "dow_wup_share_pct": 1.1111
+    },
+    {
+      "corridor": "Chicago \u2794 Denver",
+      "dimension": "Thursday",
+      "dow_market_velocity_pct": 16.5431,
+      "dow_wup_share_pct": 2.5943
+    },
+    {
+      "corridor": "Chicago \u2794 Denver",
+      "dimension": "Friday",
+      "dow_market_velocity_pct": 14.3582,
+      "dow_wup_share_pct": 2.1739
+    },
+    {
+      "corridor": "Chicago \u2794 Denver",
+      "dimension": "Saturday",
+      "dow_market_velocity_pct": 11.7831,
+      "dow_wup_share_pct": 3.9735
+    },
+    {
+      "corridor": "Chicago \u2794 Denver",
+      "dimension": "Sunday",
+      "dow_market_velocity_pct": 16.6211,
+      "dow_wup_share_pct": 1.1737
+    },
+    {
+      "corridor": "Dallas \u2794 Denver",
+      "dimension": "Monday",
+      "dow_market_velocity_pct": 13.4146,
+      "dow_wup_share_pct": 3.2258
+    },
+    {
+      "corridor": "Dallas \u2794 Denver",
+      "dimension": "Tuesday",
+      "dow_market_velocity_pct": 11.0936,
+      "dow_wup_share_pct": 2.4823
+    },
+    {
+      "corridor": "Dallas \u2794 Denver",
+      "dimension": "Wednesday",
+      "dow_market_velocity_pct": 14.5161,
+      "dow_wup_share_pct": 3.252
+    },
+    {
+      "corridor": "Dallas \u2794 Denver",
+      "dimension": "Thursday",
+      "dow_market_velocity_pct": 15.3423,
+      "dow_wup_share_pct": 1.5385
+    },
+    {
+      "corridor": "Dallas \u2794 Denver",
+      "dimension": "Friday",
+      "dow_market_velocity_pct": 15.8143,
+      "dow_wup_share_pct": 3.7313
+    },
+    {
+      "corridor": "Dallas \u2794 Denver",
+      "dimension": "Saturday",
+      "dow_market_velocity_pct": 14.1621,
+      "dow_wup_share_pct": 1.9444
+    },
+    {
+      "corridor": "Dallas \u2794 Denver",
+      "dimension": "Sunday",
+      "dow_market_velocity_pct": 15.657,
+      "dow_wup_share_pct": 3.5176
+    },
+    {
+      "corridor": "South Florida \u2794 Dallas",
+      "dimension": "Monday",
+      "dow_market_velocity_pct": 14.0712,
+      "dow_wup_share_pct": 1.5244
+    },
+    {
+      "corridor": "South Florida \u2794 Dallas",
+      "dimension": "Tuesday",
+      "dow_market_velocity_pct": 13.1703,
+      "dow_wup_share_pct": 1.6287
+    },
+    {
+      "corridor": "South Florida \u2794 Dallas",
+      "dimension": "Wednesday",
+      "dow_market_velocity_pct": 14.1141,
+      "dow_wup_share_pct": 1.8237
+    },
+    {
+      "corridor": "South Florida \u2794 Dallas",
+      "dimension": "Thursday",
+      "dow_market_velocity_pct": 14.4144,
+      "dow_wup_share_pct": 2.6786
+    },
+    {
+      "corridor": "South Florida \u2794 Dallas",
+      "dimension": "Friday",
+      "dow_market_velocity_pct": 14.4144,
+      "dow_wup_share_pct": 2.0833
+    },
+    {
+      "corridor": "South Florida \u2794 Dallas",
+      "dimension": "Saturday",
+      "dow_market_velocity_pct": 12.9558,
+      "dow_wup_share_pct": 1.3245
+    },
+    {
+      "corridor": "South Florida \u2794 Dallas",
+      "dimension": "Sunday",
+      "dow_market_velocity_pct": 16.8597,
+      "dow_wup_share_pct": 1.2723
+    },
+    {
+      "corridor": "DMV \u2794 South Florida",
+      "dimension": "Monday",
+      "dow_market_velocity_pct": 13.3005,
+      "dow_wup_share_pct": 11.7845
+    },
+    {
+      "corridor": "DMV \u2794 South Florida",
+      "dimension": "Tuesday",
+      "dow_market_velocity_pct": 13.7035,
+      "dow_wup_share_pct": 10.4575
+    },
+    {
+      "corridor": "DMV \u2794 South Florida",
+      "dimension": "Wednesday",
+      "dow_market_velocity_pct": 12.7631,
+      "dow_wup_share_pct": 10.8772
+    },
+    {
+      "corridor": "DMV \u2794 South Florida",
+      "dimension": "Thursday",
+      "dow_market_velocity_pct": 16.2114,
+      "dow_wup_share_pct": 9.116
+    },
+    {
+      "corridor": "DMV \u2794 South Florida",
+      "dimension": "Friday",
+      "dow_market_velocity_pct": 17.0175,
+      "dow_wup_share_pct": 9.4737
+    },
+    {
+      "corridor": "DMV \u2794 South Florida",
+      "dimension": "Saturday",
+      "dow_market_velocity_pct": 13.4348,
+      "dow_wup_share_pct": 11.3333
+    },
+    {
+      "corridor": "DMV \u2794 South Florida",
+      "dimension": "Sunday",
+      "dow_market_velocity_pct": 13.5692,
+      "dow_wup_share_pct": 6.9307
+    },
+    {
+      "corridor": "South Florida \u2794 Detroit",
+      "dimension": "Monday",
+      "dow_market_velocity_pct": 15.6686,
+      "dow_wup_share_pct": 8.3333
+    },
+    {
+      "corridor": "South Florida \u2794 Detroit",
+      "dimension": "Tuesday",
+      "dow_market_velocity_pct": 14.498,
+      "dow_wup_share_pct": 8.3851
+    },
+    {
+      "corridor": "South Florida \u2794 Detroit",
+      "dimension": "Wednesday",
+      "dow_market_velocity_pct": 13.5074,
+      "dow_wup_share_pct": 7.3333
+    },
+    {
+      "corridor": "South Florida \u2794 Detroit",
+      "dimension": "Thursday",
+      "dow_market_velocity_pct": 13.0572,
+      "dow_wup_share_pct": 6.8966
+    },
+    {
+      "corridor": "South Florida \u2794 Detroit",
+      "dimension": "Friday",
+      "dow_market_velocity_pct": 11.7515,
+      "dow_wup_share_pct": 8.046
+    },
+    {
+      "corridor": "South Florida \u2794 Detroit",
+      "dimension": "Saturday",
+      "dow_market_velocity_pct": 13.4174,
+      "dow_wup_share_pct": 5.7047
+    },
+    {
+      "corridor": "South Florida \u2794 Detroit",
+      "dimension": "Sunday",
+      "dow_market_velocity_pct": 18.1,
+      "dow_wup_share_pct": 4.9751
+    },
+    {
+      "corridor": "Detroit \u2794 South Florida",
+      "dimension": "Monday",
+      "dow_market_velocity_pct": 13.1193,
+      "dow_wup_share_pct": 5.9441
+    },
+    {
+      "corridor": "Detroit \u2794 South Florida",
+      "dimension": "Tuesday",
+      "dow_market_velocity_pct": 13.2569,
+      "dow_wup_share_pct": 6.2284
+    },
+    {
+      "corridor": "Detroit \u2794 South Florida",
+      "dimension": "Wednesday",
+      "dow_market_velocity_pct": 13.6239,
+      "dow_wup_share_pct": 9.4276
+    },
+    {
+      "corridor": "Detroit \u2794 South Florida",
+      "dimension": "Thursday",
+      "dow_market_velocity_pct": 16.055,
+      "dow_wup_share_pct": 5.7143
+    },
+    {
+      "corridor": "Detroit \u2794 South Florida",
+      "dimension": "Friday",
+      "dow_market_velocity_pct": 16.1468,
+      "dow_wup_share_pct": 4.8295
+    },
+    {
+      "corridor": "Detroit \u2794 South Florida",
+      "dimension": "Saturday",
+      "dow_market_velocity_pct": 14.0826,
+      "dow_wup_share_pct": 9.4463
+    },
+    {
+      "corridor": "Detroit \u2794 South Florida",
+      "dimension": "Sunday",
+      "dow_market_velocity_pct": 13.7156,
+      "dow_wup_share_pct": 6.0201
+    },
+    {
+      "corridor": "Pittsburgh \u2794 South Florida",
+      "dimension": "Monday",
+      "dow_market_velocity_pct": 13.228,
+      "dow_wup_share_pct": 4.4776
+    },
+    {
+      "corridor": "Pittsburgh \u2794 South Florida",
+      "dimension": "Tuesday",
+      "dow_market_velocity_pct": 12.0928,
+      "dow_wup_share_pct": 6.9388
+    },
+    {
+      "corridor": "Pittsburgh \u2794 South Florida",
+      "dimension": "Wednesday",
+      "dow_market_velocity_pct": 15.0543,
+      "dow_wup_share_pct": 4.2623
+    },
+    {
+      "corridor": "Pittsburgh \u2794 South Florida",
+      "dimension": "Thursday",
+      "dow_market_velocity_pct": 17.3248,
+      "dow_wup_share_pct": 3.4188
+    },
+    {
+      "corridor": "Pittsburgh \u2794 South Florida",
+      "dimension": "Friday",
+      "dow_market_velocity_pct": 16.5844,
+      "dow_wup_share_pct": 4.1667
+    },
+    {
+      "corridor": "Pittsburgh \u2794 South Florida",
+      "dimension": "Saturday",
+      "dow_market_velocity_pct": 12.6357,
+      "dow_wup_share_pct": 7.8125
+    },
+    {
+      "corridor": "Pittsburgh \u2794 South Florida",
+      "dimension": "Sunday",
+      "dow_market_velocity_pct": 13.08,
+      "dow_wup_share_pct": 5.6604
+    },
+    {
+      "corridor": "South Florida \u2794 Pittsburgh",
+      "dimension": "Monday",
+      "dow_market_velocity_pct": 18.3259,
+      "dow_wup_share_pct": 4.3243
+    },
+    {
+      "corridor": "South Florida \u2794 Pittsburgh",
+      "dimension": "Tuesday",
+      "dow_market_velocity_pct": 12.9767,
+      "dow_wup_share_pct": 4.9618
+    },
+    {
+      "corridor": "South Florida \u2794 Pittsburgh",
+      "dimension": "Wednesday",
+      "dow_market_velocity_pct": 13.7197,
+      "dow_wup_share_pct": 4.6931
+    },
+    {
+      "corridor": "South Florida \u2794 Pittsburgh",
+      "dimension": "Thursday",
+      "dow_market_velocity_pct": 11.4908,
+      "dow_wup_share_pct": 4.7414
+    },
+    {
+      "corridor": "South Florida \u2794 Pittsburgh",
+      "dimension": "Friday",
+      "dow_market_velocity_pct": 12.9272,
+      "dow_wup_share_pct": 4.9808
+    },
+    {
+      "corridor": "South Florida \u2794 Pittsburgh",
+      "dimension": "Saturday",
+      "dow_market_velocity_pct": 12.9767,
+      "dow_wup_share_pct": 8.0153
+    },
+    {
+      "corridor": "South Florida \u2794 Pittsburgh",
+      "dimension": "Sunday",
+      "dow_market_velocity_pct": 17.583,
+      "dow_wup_share_pct": 2.8169
+    },
+    {
+      "corridor": "South Florida \u2794 DMV",
+      "dimension": "Monday",
+      "dow_market_velocity_pct": 14.4153,
+      "dow_wup_share_pct": 8.3916
+    },
+    {
+      "corridor": "South Florida \u2794 DMV",
+      "dimension": "Tuesday",
+      "dow_market_velocity_pct": 12.752,
+      "dow_wup_share_pct": 15.415
+    },
+    {
+      "corridor": "South Florida \u2794 DMV",
+      "dimension": "Wednesday",
+      "dow_market_velocity_pct": 14.2641,
+      "dow_wup_share_pct": 9.894
+    },
+    {
+      "corridor": "South Florida \u2794 DMV",
+      "dimension": "Thursday",
+      "dow_market_velocity_pct": 13.6089,
+      "dow_wup_share_pct": 9.2593
+    },
+    {
+      "corridor": "South Florida \u2794 DMV",
+      "dimension": "Friday",
+      "dow_market_velocity_pct": 15.373,
+      "dow_wup_share_pct": 8.5246
+    },
+    {
+      "corridor": "South Florida \u2794 DMV",
+      "dimension": "Saturday",
+      "dow_market_velocity_pct": 12.4496,
+      "dow_wup_share_pct": 9.7166
+    },
+    {
+      "corridor": "South Florida \u2794 DMV",
+      "dimension": "Sunday",
+      "dow_market_velocity_pct": 17.1371,
+      "dow_wup_share_pct": 7.6471
+    },
+    {
+      "corridor": "Dallas \u2794 South Florida",
+      "dimension": "Monday",
+      "dow_market_velocity_pct": 14.7756,
+      "dow_wup_share_pct": 4.0956
+    },
+    {
+      "corridor": "Dallas \u2794 South Florida",
+      "dimension": "Tuesday",
+      "dow_market_velocity_pct": 12.2542,
+      "dow_wup_share_pct": 2.4691
+    },
+    {
+      "corridor": "Dallas \u2794 South Florida",
+      "dimension": "Wednesday",
+      "dow_market_velocity_pct": 16.2885,
+      "dow_wup_share_pct": 3.096
+    },
+    {
+      "corridor": "Dallas \u2794 South Florida",
+      "dimension": "Thursday",
+      "dow_market_velocity_pct": 14.473,
+      "dow_wup_share_pct": 2.439
+    },
+    {
+      "corridor": "Dallas \u2794 South Florida",
+      "dimension": "Friday",
+      "dow_market_velocity_pct": 15.8346,
+      "dow_wup_share_pct": 2.2293
+    },
+    {
+      "corridor": "Dallas \u2794 South Florida",
+      "dimension": "Saturday",
+      "dow_market_velocity_pct": 12.5063,
+      "dow_wup_share_pct": 2.8226
+    },
+    {
+      "corridor": "Dallas \u2794 South Florida",
+      "dimension": "Sunday",
+      "dow_market_velocity_pct": 13.8679,
+      "dow_wup_share_pct": 0.7273
+    },
+    {
+      "corridor": "South Florida \u2794 St. Louis",
+      "dimension": "Monday",
+      "dow_market_velocity_pct": 15.9692,
+      "dow_wup_share_pct": 1.7241
+    },
+    {
+      "corridor": "South Florida \u2794 St. Louis",
+      "dimension": "Tuesday",
+      "dow_market_velocity_pct": 12.8855,
+      "dow_wup_share_pct": 2.9915
+    },
+    {
+      "corridor": "South Florida \u2794 St. Louis",
+      "dimension": "Wednesday",
+      "dow_market_velocity_pct": 13.7115,
+      "dow_wup_share_pct": 3.6145
+    },
+    {
+      "corridor": "South Florida \u2794 St. Louis",
+      "dimension": "Thursday",
+      "dow_market_velocity_pct": 13.5463,
+      "dow_wup_share_pct": 3.252
+    },
+    {
+      "corridor": "South Florida \u2794 St. Louis",
+      "dimension": "Friday",
+      "dow_market_velocity_pct": 13.4912,
+      "dow_wup_share_pct": 2.0408
+    },
+    {
+      "corridor": "South Florida \u2794 St. Louis",
+      "dimension": "Saturday",
+      "dow_market_velocity_pct": 12.8855,
+      "dow_wup_share_pct": 2.9915
+    },
+    {
+      "corridor": "South Florida \u2794 St. Louis",
+      "dimension": "Sunday",
+      "dow_market_velocity_pct": 17.511,
+      "dow_wup_share_pct": 0.6289
+    },
+    {
+      "corridor": "Houston \u2794 Denver",
+      "dimension": "Monday",
+      "dow_market_velocity_pct": 12.8696,
+      "dow_wup_share_pct": 1.8018
+    },
+    {
+      "corridor": "Houston \u2794 Denver",
+      "dimension": "Tuesday",
+      "dow_market_velocity_pct": 15.2464,
+      "dow_wup_share_pct": 4.943
+    },
+    {
+      "corridor": "Houston \u2794 Denver",
+      "dimension": "Wednesday",
+      "dow_market_velocity_pct": 15.1884,
+      "dow_wup_share_pct": 3.0534
+    },
+    {
+      "corridor": "Houston \u2794 Denver",
+      "dimension": "Thursday",
+      "dow_market_velocity_pct": 15.1884,
+      "dow_wup_share_pct": 5.3435
+    },
+    {
+      "corridor": "Houston \u2794 Denver",
+      "dimension": "Friday",
+      "dow_market_velocity_pct": 15.2464,
+      "dow_wup_share_pct": 3.0418
+    },
+    {
+      "corridor": "Houston \u2794 Denver",
+      "dimension": "Saturday",
+      "dow_market_velocity_pct": 13.2754,
+      "dow_wup_share_pct": 2.6201
+    },
+    {
+      "corridor": "Houston \u2794 Denver",
+      "dimension": "Sunday",
+      "dow_market_velocity_pct": 12.9855,
+      "dow_wup_share_pct": 5.3571
+    },
+    {
+      "corridor": "St. Louis \u2794 South Florida",
+      "dimension": "Monday",
+      "dow_market_velocity_pct": 14.6284,
+      "dow_wup_share_pct": 4.4
+    },
+    {
+      "corridor": "St. Louis \u2794 South Florida",
+      "dimension": "Tuesday",
+      "dow_market_velocity_pct": 13.9263,
+      "dow_wup_share_pct": 3.7815
+    },
+    {
+      "corridor": "St. Louis \u2794 South Florida",
+      "dimension": "Wednesday",
+      "dow_market_velocity_pct": 13.4582,
+      "dow_wup_share_pct": 4.3478
+    },
+    {
+      "corridor": "St. Louis \u2794 South Florida",
+      "dimension": "Thursday",
+      "dow_market_velocity_pct": 13.6337,
+      "dow_wup_share_pct": 2.5751
+    },
+    {
+      "corridor": "St. Louis \u2794 South Florida",
+      "dimension": "Friday",
+      "dow_market_velocity_pct": 17.6126,
+      "dow_wup_share_pct": 2.3256
+    },
+    {
+      "corridor": "St. Louis \u2794 South Florida",
+      "dimension": "Saturday",
+      "dow_market_velocity_pct": 13.2241,
+      "dow_wup_share_pct": 3.5398
+    },
+    {
+      "corridor": "St. Louis \u2794 South Florida",
+      "dimension": "Sunday",
+      "dow_market_velocity_pct": 13.5167,
+      "dow_wup_share_pct": 1.2987
+    },
+    {
+      "corridor": "Dallas \u2794 Phoenix Valley",
+      "dimension": "Monday",
+      "dow_market_velocity_pct": 14.1408,
+      "dow_wup_share_pct": 2.1097
+    },
+    {
+      "corridor": "Dallas \u2794 Phoenix Valley",
+      "dimension": "Tuesday",
+      "dow_market_velocity_pct": 13.6038,
+      "dow_wup_share_pct": 2.193
+    },
+    {
+      "corridor": "Dallas \u2794 Phoenix Valley",
+      "dimension": "Wednesday",
+      "dow_market_velocity_pct": 14.3198,
+      "dow_wup_share_pct": 2.0833
+    },
+    {
+      "corridor": "Dallas \u2794 Phoenix Valley",
+      "dimension": "Thursday",
+      "dow_market_velocity_pct": 16.5871,
+      "dow_wup_share_pct": 2.1583
+    },
+    {
+      "corridor": "Dallas \u2794 Phoenix Valley",
+      "dimension": "Friday",
+      "dow_market_velocity_pct": 14.9165,
+      "dow_wup_share_pct": 2.4
+    },
+    {
+      "corridor": "Dallas \u2794 Phoenix Valley",
+      "dimension": "Saturday",
+      "dow_market_velocity_pct": 11.3962,
+      "dow_wup_share_pct": 5.2356
+    },
+    {
+      "corridor": "Dallas \u2794 Phoenix Valley",
+      "dimension": "Sunday",
+      "dow_market_velocity_pct": 15.0358,
+      "dow_wup_share_pct": 2.7778
+    },
+    {
+      "corridor": "North Florida \u2794 Dallas",
+      "dimension": "Monday",
+      "dow_market_velocity_pct": 11.899,
+      "dow_wup_share_pct": 3.5354
+    },
+    {
+      "corridor": "North Florida \u2794 Dallas",
+      "dimension": "Tuesday",
+      "dow_market_velocity_pct": 12.6803,
+      "dow_wup_share_pct": 1.4218
+    },
+    {
+      "corridor": "North Florida \u2794 Dallas",
+      "dimension": "Wednesday",
+      "dow_market_velocity_pct": 15.024,
+      "dow_wup_share_pct": 0.8
+    },
+    {
+      "corridor": "North Florida \u2794 Dallas",
+      "dimension": "Thursday",
+      "dow_market_velocity_pct": 16.3462,
+      "dow_wup_share_pct": 2.2059
+    },
+    {
+      "corridor": "North Florida \u2794 Dallas",
+      "dimension": "Friday",
+      "dow_market_velocity_pct": 14.4231,
+      "dow_wup_share_pct": 1.25
+    },
+    {
+      "corridor": "North Florida \u2794 Dallas",
+      "dimension": "Saturday",
+      "dow_market_velocity_pct": 13.5817,
+      "dow_wup_share_pct": 3.0973
+    },
+    {
+      "corridor": "North Florida \u2794 Dallas",
+      "dimension": "Sunday",
+      "dow_market_velocity_pct": 16.0457,
+      "dow_wup_share_pct": 2.2472
+    },
+    {
+      "corridor": "South Florida \u2794 Boston",
+      "dimension": "Monday",
+      "dow_market_velocity_pct": 15.1149,
+      "dow_wup_share_pct": 4.0
+    },
+    {
+      "corridor": "South Florida \u2794 Boston",
+      "dimension": "Tuesday",
+      "dow_market_velocity_pct": 14.208,
+      "dow_wup_share_pct": 3.8298
+    },
+    {
+      "corridor": "South Florida \u2794 Boston",
+      "dimension": "Wednesday",
+      "dow_market_velocity_pct": 14.0871,
+      "dow_wup_share_pct": 4.2918
+    },
+    {
+      "corridor": "South Florida \u2794 Boston",
+      "dimension": "Thursday",
+      "dow_market_velocity_pct": 13.7848,
+      "dow_wup_share_pct": 5.2632
+    },
+    {
+      "corridor": "South Florida \u2794 Boston",
+      "dimension": "Friday",
+      "dow_market_velocity_pct": 14.994,
+      "dow_wup_share_pct": 2.0161
+    },
+    {
+      "corridor": "South Florida \u2794 Boston",
+      "dimension": "Saturday",
+      "dow_market_velocity_pct": 12.6965,
+      "dow_wup_share_pct": 1.4286
+    },
+    {
+      "corridor": "South Florida \u2794 Boston",
+      "dimension": "Sunday",
+      "dow_market_velocity_pct": 15.1149,
+      "dow_wup_share_pct": 4.8
+    }
+  ]
+}
