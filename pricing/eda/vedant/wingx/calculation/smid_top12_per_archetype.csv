@@ -1,0 +1,49 @@
+cluster_label,rank,corridor,peak_month,peak_density_pct,avg_density_pct,avg_seasonality_idx,months_above_avg,peak_slab,peak_intensity
+winter-spring-peak,1,DMV -> South Florida,Jan,27.6,8.33,1.0,5,> 15%,5
+winter-spring-peak,2,San Antonio -> Phoenix Valley,Feb,26.47,8.33,1.0,5,> 15%,5
+winter-spring-peak,3,Philadelphia -> North Florida,Jan,24.39,8.34,1.0003,4,> 15%,5
+winter-spring-peak,4,North Florida -> Houston,Mar,24.14,8.33,0.9999,6,> 15%,5
+winter-spring-peak,5,Atlanta -> San Antonio,Apr,23.16,8.33,1.0001,5,> 15%,5
+winter-spring-peak,6,DMV -> St. Louis,Jan,22.45,8.33,0.9999,5,> 15%,5
+winter-spring-peak,7,South Florida -> Houston,Mar,21.65,8.34,1.0002,5,> 15%,5
+winter-spring-peak,8,Pittsburgh -> North Florida,Dec,21.43,8.33,1.0,5,> 15%,5
+winter-spring-peak,9,North Florida -> San Antonio,Jan,20.96,8.33,1.0001,6,> 15%,5
+winter-spring-peak,10,Atlanta -> Dallas,May,20.93,8.33,1.0,7,> 15%,5
+winter-spring-peak,11,South Florida -> Philadelphia,Apr,20.7,8.33,0.9999,5,> 15%,5
+winter-spring-peak,12,Dallas -> Phoenix Valley,Mar,20.1,8.33,0.9999,5,> 15%,5
+summer-peak,1,Houston -> Detroit,Jun,29.63,8.33,1.0,4,> 15%,5
+summer-peak,2,New York City -> Chicago,May,29.03,8.33,0.9999,5,> 15%,5
+summer-peak,3,Dallas -> North Florida,Jul,27.66,8.33,1.0001,5,> 15%,5
+summer-peak,4,Seattle -> Denver,Aug,24.39,8.33,1.0002,5,> 15%,5
+summer-peak,5,San Antonio -> North Florida,Nov,21.21,8.33,0.9999,6,> 15%,5
+summer-peak,6,Atlanta -> Boston,Jul,20.59,8.33,0.9998,6,> 15%,5
+summer-peak,7,Nashville -> Boston,Jun,20.59,8.33,1.0,6,> 15%,5
+summer-peak,8,Denver -> Dallas,Aug,19.57,8.33,1.0,4,> 15%,5
+summer-peak,9,Atlanta -> New York City,May,18.42,8.33,1.0001,7,> 15%,5
+summer-peak,10,San Antonio -> Detroit,Sep,18.18,8.33,0.9999,6,> 15%,5
+summer-peak,11,Minneapolis -> Boston,Aug,18.07,8.33,1.0001,6,> 15%,5
+summer-peak,12,Dallas -> DMV,Jun,17.73,8.33,1.0,5,> 15%,5
+core-utilization,1,Detroit -> North Florida,Dec,22.0,8.33,1.0,5,> 15%,5
+core-utilization,2,Denver -> St. Louis,Aug,20.59,8.33,0.9999,5,> 15%,5
+core-utilization,3,St. Louis -> Denver,Jan,17.79,8.33,0.9999,5,> 15%,5
+core-utilization,4,Dallas -> Denver,Dec,17.31,8.33,0.9998,4,> 15%,5
+core-utilization,5,LA Basin -> Denver,Jul,17.07,8.33,1.0001,4,> 15%,5
+core-utilization,6,Denver -> Chicago,Jul,16.54,8.33,1.0,6,> 15%,5
+core-utilization,7,San Antonio -> South Florida,Jun,16.42,8.33,1.0,3,> 15%,5
+core-utilization,8,San Antonio -> Minneapolis,Dec,15.87,8.33,1.0,5,> 15%,5
+core-utilization,9,South Florida -> Denver,Mar,15.67,8.33,1.0,5,> 15%,5
+core-utilization,10,Denver -> Houston,Jul,15.6,8.33,1.0,6,> 15%,5
+core-utilization,11,Chicago -> North Florida,Aug,15.56,8.33,0.9999,6,> 15%,5
+core-utilization,12,Houston -> Denver,Dec,15.12,8.33,1.0,5,> 15%,5
+multi-peak-directional,1,San Antonio -> Chicago,Dec,24.0,8.33,1.0,5,> 15%,5
+multi-peak-directional,2,Atlanta -> Minneapolis,Dec,21.21,8.33,1.0001,5,> 15%,5
+multi-peak-directional,3,Phoenix Valley -> Nashville,May,18.77,8.33,1.0001,5,> 15%,5
+multi-peak-directional,4,North Florida -> Detroit,Nov,18.18,8.33,1.0,5,> 15%,5
+multi-peak-directional,5,Charlotte -> Minneapolis,Nov,17.26,8.33,1.0,5,> 15%,5
+multi-peak-directional,6,Houston -> Pittsburgh,Sep,16.67,8.33,0.9998,5,> 15%,5
+multi-peak-directional,7,Denver -> LA Basin,Feb,16.37,8.33,1.0,6,> 15%,5
+multi-peak-directional,8,Philadelphia -> Houston,Feb,16.27,8.33,1.0,4,> 15%,5
+multi-peak-directional,9,Boston -> Phoenix Valley,Oct,15.75,8.33,0.9999,4,> 15%,5
+multi-peak-directional,10,Philadelphia -> San Antonio,Oct,15.73,8.33,1.0,5,> 15%,5
+multi-peak-directional,11,Phoenix Valley -> Philadelphia,Apr,15.72,8.33,1.0001,5,> 15%,5
+multi-peak-directional,12,Phoenix Valley -> Boston,May,15.26,8.33,0.9999,6,> 15%,5
