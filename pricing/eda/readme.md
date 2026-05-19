@@ -1,1 +1,0 @@
-init pricing eda folder
