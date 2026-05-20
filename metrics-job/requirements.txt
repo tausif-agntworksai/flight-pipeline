@@ -1,5 +1,6 @@
-cloud-sql-python-connector[pg8000]==1.9.0
-pg8000
-sqlalchemy
-pandas
-pyarrow
+google-cloud-sql-connector[pg8000]==1.9.0
+pg8000==1.31.2
+sqlalchemy==2.0.35
+pandas==2.2.2
+pyarrow==16.1.0
+ 
